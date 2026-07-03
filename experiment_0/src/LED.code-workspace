@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"name": "LED",
+			"path": "../../LED"
+		},
+		{
+			"name": "blink",
+			"path": "../../blink"
+		},
+		{
+			"name": "ldr",
+			"path": "../../ldr"
+		},
+		{
+			"name": "Ardiuno_examples",
+			"path": "../../Ardiuno_examples"
+		},
+		{
+			"name": "ardiuno_exp1",
+			"path": "../../ardiuno_exp1"
+		},
+		{
+			"name": "ardiuno_exp2",
+			"path": "../../ardiuno_exp2"
+		},
+		{
+			"name": "ardiuno_exp3",
+			"path": "../../ardiuno_exp3"
+		},
+		{
+			"name": "experiment_0",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
