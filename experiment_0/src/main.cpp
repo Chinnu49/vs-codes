@@ -18,7 +18,7 @@ void setupLedFlash();
 
 void setup() {
   Serial.begin(115200);
-  Serial.setDebugOutput(true);
+  Serial.setDebugOutput(true);//
   Serial.println();
 
   camera_config_t config;
